@@ -1,0 +1,10 @@
+{
+  "name": "@alphabetiq/colors",
+  "keywords": "colors, material, design, react, ui",
+  "version": "1.1.1",
+  "description": "Quick 'n' easy material design colors",
+  "author": "@adamnpeace",
+  "repository": "alphabetiq/colors",
+  "homepage": "https://github.com/alphabetiq/colors",
+  "icon": "https://alphabetiq.github.io/colors/logo.png"
+}
